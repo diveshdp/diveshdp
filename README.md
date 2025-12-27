@@ -31,11 +31,10 @@ I love building clean, scalable user interfaces and solving real-world problems 
   React + TypeScript UI clone  
   👉 https://github.com/divesdhp/Netflix-fork
 
----
 
-### 📫 Connect With Me
-- GitHub: https://github.com/divesdhp
-- LinkedIn: *(add when ready)*
+ 📫 Connect With Me
+- GitHub: https://github.com/divesdp
+- LinkedIn: https://www.linkedin.com/in/divesh-patlolla-5056bb259/
 
 ---
 
