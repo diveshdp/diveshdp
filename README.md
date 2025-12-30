@@ -25,7 +25,8 @@ I love building clean, scalable user interfaces and solving real-world problems 
 ### 📌 Featured Projects
 - 🔹 **Portfolio Management App**  
   Designing a web app to manage financial portfolios  
-  👉 https://github.com/divesdhp/Profolio-management
+  👉 https://github.com/diveshdp/Profolio-management
+  
 
 - 🔹 **Netflix UI Clone**  
   React + TypeScript UI clone  
