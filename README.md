@@ -2,6 +2,7 @@
 
 💻 **Frontend / UI Developer** with strong experience in **React, TypeScript, and modern web development**.  
 I love building clean, scalable user interfaces and solving real-world problems with code.
+
 Here is the link to my Protfolio: https://divesh-patlolla-github-io.vercel.app/
 
 ---
