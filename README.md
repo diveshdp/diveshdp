@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divesh Patlolla
 
-🚀 **Senior Software Engineer** · Java · Spring Boot · Node.js · Golang · React · AWS  
+🚀 **Senior Software Engineer** · React · Spring Boot · Node.js · Golang · Java · AWS  
 📍 Paoli, PA · [Portfolio](https://divesh-patlolla-github-io.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/divesh-patlolla-5056bb259/)
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 ## 📌 Featured Projects
-
+🔹 **[Personal Portfolio App][Portfolio](https://divesh-patlolla-github-io.vercel.app/) 
 🔹 **[Portfolio Management App](https://github.com/diveshdp/Profolio-management)** — React · Golang · WebSockets · Redis · AWS  
 500+ concurrent users · sub-200ms latency · [Live Demo](https://profolio-management.vercel.app/)
 
