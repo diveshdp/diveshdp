@@ -1,9 +1,6 @@
-
-
-⭐ _Always learning. Always building._
 # 👋 Hi, I'm Divesh Patlolla
 
-🚀 **Senior Software Engineer** · React · Spring Boot · Node.js · Golang · Java · AWS  
+🚀 **Senior Software Engineer** · Java · Spring Boot · Node.js · Golang · React · AWS  
 📍 Paoli, PA · [Portfolio](https://divesh-patlolla-github-io.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/divesh-patlolla-5056bb259/)
 
 ---
@@ -60,4 +57,4 @@
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/divesh-patlolla-/) · [GitHub](https://github.com/divesdp) · diveshree77@gmail.com
+[Portfolio](https://divesh-patlolla-github-io.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/divesh-patlolla-5056bb259/) · [GitHub](https://github.com/divesdp) · diveshree77@gmail.com
