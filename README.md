@@ -26,7 +26,7 @@
 ---
 
 ## 📌 Featured Projects
-🔹 ****[Personal Portfolio App]**[Portfolio](https://divesh-patlolla-github-io.vercel.app/) 
+🔹 ****[Personal Portfolio App]***[Portfolio](https://divesh-patlolla-github-io.vercel.app/) 
 
 🔹 **[Portfolio Management App](https://github.com/diveshdp/Profolio-management)** — React · Golang · WebSockets · Redis · AWS  
 500+ concurrent users · sub-200ms latency · [Live Demo](https://profolio-management.vercel.app/)
